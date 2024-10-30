@@ -19,7 +19,7 @@ module.exports = {
 
 IQbot Whatsapp`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://KRhero:@#gamingHERO@cluster0.w2kth.mongodb.net/', 
+  MONGODB_URL: 'mongodb://mongo:TDpgfqXkSLbuCEMVQTIxfEOPAbIAZvAo@junction.proxy.rlwy.net:12385', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
